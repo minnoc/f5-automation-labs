@@ -28,8 +28,6 @@ Lab 1.1: Exploring the iControl REST API
 Task 1 - Explore the API using the TMOS Web Interface
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I loved this lab!!
-
 In this lab, we will explore the API using an interface that is built into TMOS.
 This utility is useful for understanding how TMOS objects map
 to the REST API. The interfaces implement full Create, Read, Update and
